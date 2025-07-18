@@ -12,6 +12,8 @@
 🛠️ Actively contributing to Open-source Projects  
 📬 Reach me at: [priyanshu3303@gmail.com](mailto:priyanshu3303@gmail.com)
 
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=PriyanshuSingh44)
+
 ---
 
 ## 🧰 Tech Stack:
@@ -37,4 +39,4 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PriyanshuSingh44&theme=tokyonight)
 
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=PriyanshuSingh44)
+
