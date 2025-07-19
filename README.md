@@ -1,22 +1,21 @@
-# Hi 👋, I'm Priyanshu
-
-**A Passionate Developer from India 🇮🇳**
+<h1 align="center">Hi 👋, I'm Priyanshu Singh</h1>
+<h3 align="center">Aspiring Machine Learning Developer | Python Enthusiast | Problem Solver</h3>
 
 ---
 
 ## 🚀 About Me:
 
-🎓 B.Tech in CS with AI & ML  
-📘 Currently learning Python, Data Structures & Algorithms  
-🤖 Exploring Machine Learning, AI Agents & LLMs  
-🛠️ Actively contributing to Open-source Projects  
-📬 Reach me at: [priyanshu3303@gmail.com](mailto:priyanshu3303@gmail.com)
+- 🎓 B.Tech in CS with AI & ML  
+- 💻 Currently learning Python, Data Structures & Algorithms  
+- 🤖 Exploring Machine Learning, AI Agents & LLMs  
+- 🌱 Building and contributing to open-source projects  
+- 📫 Reach me at: [priyanshu3303@gmail.com](mailto:priyanshu3303@gmail.com)
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=PriyanshuSingh44)
 
 ---
 
-## 🧰 Tech Stack:
+## 🔧 Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -31,12 +30,26 @@
 
 ---
 
-## 📈 GitHub Stats:
+## 📂 Featured Projects
 
-![Priyanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=PriyanshuSingh44&show_icons=true&theme=tokyonight)
+| Project | Description |
+|--------|-------------|
+| 🔗 [House Price Prediction](https://github.com/PriyanshuSingh44/house-price-prediction) | ML model to predict housing prices using linear regression and random forests |
+| 🔗 [Predictive Maintenance Dashboard](https://github.com/PriyanshuSingh44/predictive-maintenance-dashboard) | An interactive dashboard built with Dash + Flask to visualize and predict Remaining Useful Life (RUL) based on sensor inputs using a trained SVR model |
+| 🔗 [Contact Management System](https://github.com/PriyanshuSingh44/contact-management-system) | A simple terminal-based Contact Management System in Python |
+| 🔗 [Ordered Set (Custom)](https://github.com/PriyanshuSingh44/ordered-set-custom) | Python package for maintaining ordered sets (also available on PyPI) |
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PriyanshuSingh44&layout=compact&theme=tokyonight)
+---
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PriyanshuSingh44&theme=tokyonight)
+## 📈 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PriyanshuSingh44&show_icons=true&theme=tokyonight" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PriyanshuSingh44&layout=compact&theme=tokyonight" height="150"/>
+</p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PriyanshuSingh44&theme=tokyonight" height="200"/>
+</p>
+
+---
