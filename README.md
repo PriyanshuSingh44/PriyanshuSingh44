@@ -34,7 +34,7 @@
 
 | Project | Description |
 |--------|-------------|
-| 🔗 [House Price Prediction (Intermediate level)](https://github.com/PriyanshuSingh44/house-price-prediction-intermediate) | ML model to predict housing prices using linear regression and random forests |
+| 🔗 [House Price Prediction (Intermediate level)](https://github.com/PriyanshuSingh44/house_price_prediction_intermediate) | ML models to predict housing prices using XGBoost and Random Forest (Kaggle Intermediate ML project) |
 | 🔗 [House Price Prediction (Begiennr level)](https://github.com/PriyanshuSingh44/house-price-prediction) | ML model to predict housing prices using linear regression and random forests |
 | 🔗 [Predictive Maintenance Dashboard](https://github.com/PriyanshuSingh44/predictive-maintenance-dashboard) | An interactive dashboard built with Dash + Flask to visualize and predict Remaining Useful Life (RUL) based on sensor inputs using a trained SVR model |
 | 🔗 [Contact Management System](https://github.com/PriyanshuSingh44/contact-management-system) | A simple terminal-based Contact Management System in Python |
