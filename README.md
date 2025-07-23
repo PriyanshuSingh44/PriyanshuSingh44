@@ -1,9 +1,11 @@
-<h1 align="center">Hi 👋, I'm Priyanshu Singh</h1>
-<h3 align="center">Aspiring Machine Learning Developer | Python Enthusiast | Problem Solver</h3>
+<div align="center">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%2306FCEB&size=30&center=true&vCenter=true&width=600&lines=I'm+Priyanshu+Singh;Aspiring+Machine+Learning+Developer;Python+Enthusiast;Problem+Solver" alt="Typing SVG"></a>
+    </a>
+</div>
 
 ---
 
-## 🚀 About Me:
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"><b> About Me </b>
 
 - 🎓 B.Tech in CS with AI & ML  
 - 💻 Currently learning Python, Data Structures & Algorithms  
@@ -11,38 +13,43 @@
 - 🌱 Building and contributing to open-source projects  
 - 📫 Reach me at: [priyanshu3303@gmail.com](mailto:priyanshu3303@gmail.com)
 
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=PriyanshuSingh44)
+<p align="left">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=PriyanshuSingh44" alt="Visitor Badge" />
+</p>
 
 ---
 
-## 🔧 Tech Stack
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"><b> Technologies and Tech Stack </b>
+<p align="left">
+  <!-- Skillicons icons -->
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=github,git,discord,vscode,html,css,js,python,c,cpp,mysql,sklearn" />
+  </a>
+  <!-- Custom icons using devicon CDN -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" />
+</p>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+
 
 ---
 
-## 📂 Featured Projects
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"><b> Featured Projects </b>
 
 | Project | Description |
 |--------|-------------|
 | 🔗 [House Price Prediction (Intermediate level)](https://github.com/PriyanshuSingh44/house_price_prediction_intermediate) | ML models to predict housing prices using XGBoost and Random Forest (Kaggle Intermediate ML project) |
-| 🔗 [House Price Prediction (Begiennr level)](https://github.com/PriyanshuSingh44/house-price-prediction) | ML model to predict housing prices using linear regression and random forests |
+| 🔗 [House Price Prediction (Beginner level)](https://github.com/PriyanshuSingh44/house-price-prediction) | ML model to predict housing prices using linear regression and random forests |
 | 🔗 [Predictive Maintenance Dashboard](https://github.com/PriyanshuSingh44/predictive-maintenance-dashboard) | An interactive dashboard built with Dash + Flask to visualize and predict Remaining Useful Life (RUL) based on sensor inputs using a trained SVR model |
 | 🔗 [Contact Management System](https://github.com/PriyanshuSingh44/contact-management-system) | A simple terminal-based Contact Management System in Python |
 | 🔗 [Ordered Set (Custom)](https://github.com/PriyanshuSingh44/ordered-set-custom) | Python package for maintaining ordered sets (also available on PyPI) |
 
 ---
 
-## 📈 GitHub Stats
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"><b> GitHub Stats </b>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=PriyanshuSingh44&show_icons=true&theme=tokyonight" height="150" />
