@@ -13,10 +13,6 @@
 - 🌱 Building and contributing to open-source projects  
 - 📫 Reach me at: [priyanshu3303@gmail.com](mailto:priyanshu3303@gmail.com)
 
-<p align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=PriyanshuSingh44" alt="Visitor Badge" />
-</p>
-
 ---
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"><b> Technologies and Tech Stack </b>
@@ -56,8 +52,5 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PriyanshuSingh44&layout=compact&theme=tokyonight" height="150"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PriyanshuSingh44&theme=tokyonight" height="200"/>
-</p>
 
 ---
