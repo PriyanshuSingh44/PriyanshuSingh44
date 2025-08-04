@@ -13,13 +13,13 @@
 - 🌱 Building and contributing to open-source projects  
 - 📫 Reach me at: [priyanshu3303@gmail.com](mailto:priyanshu3303@gmail.com)
 
----
+
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"><b> Technologies and Tech Stack </b>
 <p align="left">
   <!-- Skillicons icons -->
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,git,discord,vscode,html,css,js,python,c,cpp,mysql,sklearn" />
+    <img src="https://skillicons.dev/icons?i=github,git,discord,vscode,html,css,js,python,c,cpp,flask,mysql,sklearn" />
   </a>
   <!-- Custom icons using devicon CDN -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" />
@@ -31,7 +31,7 @@
 
 
 
----
+
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"><b> Featured Projects </b>
 
@@ -43,7 +43,7 @@
 | 🔗 [Contact Management System](https://github.com/PriyanshuSingh44/contact-management-system) | A simple terminal-based Contact Management System in Python |
 | 🔗 [Flask-app](https://github.com/PriyanshuSingh44/Flask-app) | A learning project to learn Flask |
 
----
+
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"><b> GitHub Stats </b>
 
@@ -53,4 +53,4 @@
 </p>
 
 
----
+
