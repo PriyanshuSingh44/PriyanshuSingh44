@@ -43,10 +43,5 @@ I am Priyanshu Singh, a third-year B.Tech student at Lovely Professional Univers
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"><b> GitHub Stats </b>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PriyanshuSingh44&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PriyanshuSingh44&layout=compact&theme=tokyonight" height="150"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=PriyanshuSingh44&theme=tokyonight&hide_border=false" height="150"/>
+  <img src="./metrics.svg" width="100%">
 </p>
