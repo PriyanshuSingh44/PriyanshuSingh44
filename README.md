@@ -42,6 +42,6 @@ I am Priyanshu Singh, a third-year B.Tech student at Lovely Professional Univers
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"><b> GitHub Stats </b>
 
-<p align="center">
-  <img src="./metrics.svg" width="100%">
-</p>
+![GitHub Stats](https://raw.githubusercontent.com/PriyanshuSingh44/github-stats/main/stats.svg)
+![Top Languages](https://raw.githubusercontent.com/PriyanshuSingh44/github-stats/main/langs.svg)
+
