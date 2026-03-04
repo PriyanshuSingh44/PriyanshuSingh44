@@ -38,10 +38,3 @@ I am Priyanshu Singh, a third-year B.Tech student at Lovely Professional Univers
 | 🔗 [Contact Management System](https://github.com/PriyanshuSingh44/contact-management-system) | A simple terminal-based Contact Management System in Python |
 | 🔗 [Flask-app](https://github.com/PriyanshuSingh44/Flask-app) | A learning project to explore Flask |
 
----
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"><b> GitHub Stats </b>
-
-![GitHub Stats](https://raw.githubusercontent.com/PriyanshuSingh44/github-stats/main/stats.svg)
-![Top Languages](https://raw.githubusercontent.com/PriyanshuSingh44/github-stats/main/langs.svg)
-
