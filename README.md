@@ -9,8 +9,8 @@
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"><b> About Me </b>
 
 I am Priyanshu Singh, a third-year B.Tech student at Lovely Professional University. My field of interest and specialization is Artificial Intelligence and Machine Learning. I am deeply interested in building intelligent systems and currently strengthening my foundation in Python, Data Structures & Algorithms, and core machine learning concepts.
-- 📫 Reach me at: **[priyanshu3303@gmail.com](mailto:priyanshu3303@gmail.com)**
 
+- 📫 Reach me at: **[priyanshu3303@gmail.com](mailto:priyanshu3303@gmail.com)**
 
 ---
 
@@ -32,13 +32,19 @@ I am Priyanshu Singh, a third-year B.Tech student at Lovely Professional Univers
 
 | Project | Description |
 |--------|-------------|
-| 🔗 [House Price Prediction (Intermediate level)](https://github.com/PriyanshuSingh44/house_price_prediction_intermediate) | ML models to predict housing prices using XGBoost and Random Forest (Kaggle Intermediate ML project) |
-| 🔗 [House Price Prediction (Beginner level)](https://github.com/PriyanshuSingh44/house-price-prediction) | ML model to predict housing prices using linear regression and random forests |
+| 🔗 [Wi-Fi Anomaly Detection System](https://github.com/PriyanshuSingh44/WIFI-anomaly-detection-system) | Distributed, self-learning system that detects anomalies in Wi-Fi traffic using unsupervised ML (Isolation Forest, LOF, Autoencoder) with a real-time Flask + Socket.IO dashboard |
+| 🔗 [NLP Semantic Similarity App](https://github.com/PriyanshuSingh44/NLP) | Full-stack NLP web app that measures semantic similarity between sentences using Sentence-BERT (all-MiniLM-L6-v2) and FastAPI, containerized with Docker |
 | 🔗 [Predictive Maintenance Dashboard](https://github.com/PriyanshuSingh44/predictive-maintenance-dashboard) | Interactive dashboard built with Dash + Flask to visualize and predict RUL using an SVR model |
+| 🔗 [House Price Prediction (Intermediate level)](https://github.com/PriyanshuSingh44/house_price_prediction_intermediate) | ML models to predict housing prices using XGBoost and Random Forest (Kaggle Intermediate ML project) |
 | 🔗 [Contact Management System](https://github.com/PriyanshuSingh44/contact-management-system) | A simple terminal-based Contact Management System in Python |
-| 🔗 [Flask-app](https://github.com/PriyanshuSingh44/Flask-app) | A learning project to explore Flask |
+
+---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PriyanshuSingh44&show_icons=true&theme=default)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PriyanshuSingh44&layout=compact&theme=default)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PriyanshuSingh44&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" alt="GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PriyanshuSingh44&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Top Languages" />
+</p>
